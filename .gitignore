@@ -37,3 +37,20 @@ build/
 ### Mac OS ###
 .DS_Store
 .fake
+
+# Maven build output
+/target/
+
+# Local IDE configuration
+/.idea/
+/.vscode/
+/temp.idea/
+/temp.vscode/
+*.iml
+
+# Logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
