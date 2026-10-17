@@ -6,7 +6,7 @@ character movement, animation, camera tracking, collision regions, and triggers.
 
 Originally developed in September–November 2023, with Java 25 maintenance in 2026.
 
-![Generated terrain and player](docs/media/terrain-overview.png)
+![Generated terrain and player](docs/media/terrain-generator-screenshot.png)
 
 ## Features
 
